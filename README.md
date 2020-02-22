@@ -4,9 +4,9 @@ This my program created for new 2020 cs50x pset3, it takes at max 9 numbers of c
 If a tie occurs, both the candidates would be considered winners.
 
 ## Usage
-```python
+```
 $ make plurality
-$ ./plurality [candidate ...] # input name of candidates, up to 9 candidates
+$ ./plurality [candidate ...] //input name of candidates, up to 9 candidates
 Number of voters: number # all positive integers
 Vote: candidate's name # must correspond to the initial commandline input
 ```
